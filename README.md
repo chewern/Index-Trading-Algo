@@ -8,7 +8,7 @@ This Python code will only run on QuantConnect (www.quantconnect.com) as proprie
 
 ## Results
 Over a 10-year period from 1 Jan 2011 to 1 Jan 2021, the annualized return is 18.3% after fees, which is 1+% better than 
-pure buy and hold (of the same starting positions).
+pure buy and hold (of the same starting positions). The win rate is 85%.
 
 ## Future Improvements Ideas (if ever LOL)
 1.  Should add a stop loss trigger to protect downside. Will do so if one day I want to use this for real trading.
